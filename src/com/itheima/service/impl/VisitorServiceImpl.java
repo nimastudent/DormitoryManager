@@ -14,7 +14,6 @@ import java.util.List;
  * @program: dormitorySystem
  * @description: 访客
  * @author: Joyrocky
- * @create: 2019-05-14 12:39
  **/
 @Service("visitorService")
 @Transactional

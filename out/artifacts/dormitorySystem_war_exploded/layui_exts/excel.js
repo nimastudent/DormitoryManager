@@ -4,7 +4,6 @@
 * @Version: v1.4
 * @Date:   2018-03-24 09:54:17
 * @Last Modified by:   Jeffrey Wang
-* @Last Modified time: 2019-01-15 11:49:09
 */
 layui.define(['jquery'], function(exports){
 	var $ = layui.jquery;
@@ -137,7 +136,6 @@ layui.define(['jquery'], function(exports){
 							lineData[row] = '';
 						}
 					} else {
-						// JeffreyWang 2019-03-10针对 0 的hack处理
 						if (rowData === 0) {
 							rowData = {
 								v: '0',

@@ -64,7 +64,7 @@ public class AdminController {
 							Integer a_id ,Integer pageSize, Model model) {
 
 		PageInfo<Admin> ai = adminService.findPageInfo(a_username,a_describe,
-								a_id,pageIndex,pageSize);
+				a_id,pageIndex,pageSize);
 		model.addAttribute("ai",ai);
 		return "admin_list";
 	}
@@ -73,7 +73,7 @@ public class AdminController {
 	 * 导出Excel
 	 */
 	@RequestMapping(value = "/exportadminlist" , method = RequestMethod.POST)
-    @ResponseBody
+	@ResponseBody
 	public List<Admin> exportAdmin(){
 		List<Admin> admin = adminService.getAll();
 		return admin;
@@ -85,8 +85,8 @@ public class AdminController {
 	@RequestMapping(value = "/addAdmin" ,method = RequestMethod.POST)
 	@ResponseBody
 	public String addAdmin( @RequestBody Admin admin) {
-
-		admin.setA_password(MD5Util.MD5EncodeUtf8(admin.getA_password()));
+		System.out.println("admin: " + admin);
+		admin.setA_password("E10ADC3949BA59ABBE56E057F20F883E");
 		int a = adminService.addAdmin(admin);
 		return "admin_list";
 	}

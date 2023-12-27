@@ -8,7 +8,6 @@ import java.util.Date;
  * @program: dormitorySystem
  * @description: 维修登记
  * @author: Joyrocky
- * @create: 2019-04-28 00:23
  **/
 public class DormRepair {
     private int r_id;

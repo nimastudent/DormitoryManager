@@ -6,7 +6,6 @@ import java.security.MessageDigest;
  * @program: Student_dorm_System
  * @description: MD5加密
  * @author: Joyrocky
- * @create: 2019-04-13 13:04
  **/
 
 

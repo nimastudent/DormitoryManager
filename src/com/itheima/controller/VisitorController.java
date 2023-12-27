@@ -17,7 +17,6 @@ import java.util.List;
  * @program: dormitorySystem
  * @description: 访客管理
  * @author: Joyrocky
- * @create: 2019-05-14 12:37
  **/
 @Controller
 public class VisitorController {

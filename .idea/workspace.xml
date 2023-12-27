@@ -5,13 +5,99 @@
       <artifact name="dormitorySystem:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c950e1df-adaf-4f90-9202-51a6e8067305" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dormitory.sql" beforeDir="false" afterPath="$PROJECT_DIR$/dormitory.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dormitorySystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dormitorySystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/controller/ClassController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/controller/ClassController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/controller/DormitoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/controller/DormitoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/controller/StudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/dao/AdminDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/dao/AdminDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/dao/ClassDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/dao/ClassDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/dao/DormitoryDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/dao/DormitoryDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/dao/StudentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/dao/StudentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/interceptor/Loginlnterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/interceptor/Loginlnterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/po/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/po/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/po/Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/po/Class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/po/Dormitory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/po/Dormitory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/po/PageInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/po/PageInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/po/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/po/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/AdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/AdminService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/ClassService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/ClassService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/DormitoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/DormitoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/StudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/impl/AdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/impl/ClassServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/impl/ClassServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/impl/DormitoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/impl/DormitoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/impl/StudentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/com/itheima/service/impl/StudentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/jsp/homepage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/jsp/homepage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/META-INF/dormitorySystem.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/controller/ClassController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/controller/ClassController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/controller/DormitoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/controller/DormitoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/controller/StudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/dao/AdminDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/dao/AdminDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/dao/ClassDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/dao/ClassDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/dao/DormitoryDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/dao/DormitoryDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/dao/StudentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/dao/StudentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/interceptor/Loginlnterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/interceptor/Loginlnterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/po/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/po/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/po/Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/po/Class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/po/Dormitory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/po/Dormitory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/po/PageInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/po/PageInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/po/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/po/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/AdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/AdminService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/ClassService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/ClassService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/DormitoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/DormitoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/StudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/impl/AdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/impl/ClassServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/impl/ClassServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/impl/DormitoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/impl/DormitoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/impl/StudentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/com/itheima/service/impl/StudentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/controller/DormCleanController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/controller/DormCleanController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/controller/DormRepairController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/controller/DormRepairController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/controller/StudentCleanController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/controller/StudentCleanController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/controller/VisitorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/controller/VisitorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/dao/DormCleanDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/dao/DormCleanDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/dao/DormRepairDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/dao/DormRepairDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/dao/StudentCleanDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/dao/StudentCleanDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/dao/VisitorDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/dao/VisitorDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/po/DormClean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/po/DormClean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/po/DormRepair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/po/DormRepair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/po/StudentClean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/po/StudentClean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/po/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/po/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/service/DormCleanService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/service/DormCleanService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/service/DormRepairService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/service/DormRepairService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/service/StudentCleanService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/service/StudentCleanService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/service/VisitorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/service/VisitorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/service/impl/DormCleanServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/service/impl/DormCleanServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/service/impl/DormRepairServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/service/impl/DormRepairServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/service/impl/StudentCleanServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/service/impl/StudentCleanServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/service/impl/VisitorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/service/impl/VisitorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/util/MD5Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/util/MD5Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/util/PropertiesUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/util/PropertiesUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/dormclean_edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/dormclean_edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/dormclean_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/dormclean_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/dormrepair_edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/dormrepair_edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/dormrepair_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/dormrepair_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/homepage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/homepage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/studentclean_edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/studentclean_edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/studentclean_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/studentclean_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/visitor_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/visitor_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/layui_exts/excel.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/layui_exts/excel.js" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,9 +150,9 @@
         <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="Jsp File" />
-        <option value="Class" />
         <option value="Interface" />
         <option value="custom" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -157,17 +243,24 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand />
       <select />
     </treeState>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1378" />
     <option name="height" value="725" />
   </component>
+  <component name="ProjectId" id="2Z25a8eeft3e4Sz1gXLWPcDamrZ" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -197,21 +290,28 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/hkw/Desktop/dormitorySystem/src/springmvc-config.xml" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562417972561" />
-    <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Student_dorm_System" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javja/DormitoryManager&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IDEA-File\dormitorySystem" />
@@ -233,21 +333,23 @@
       <recent name="E:\IDEA-File\dormitorySystem\web\images" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.123123">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Main" />
+      <module name="dormitorySystem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -266,6 +368,7 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -273,7 +376,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dormitorySystem" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.37" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="123123" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.37" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
@@ -325,6 +428,21 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -356,7 +474,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -426,6 +550,14 @@
       <workItem from="1559658602138" duration="3925000" />
       <workItem from="1560590403321" duration="3685000" />
       <workItem from="1562410239127" duration="6992000" />
+      <workItem from="1701607396345" duration="121000" />
+      <workItem from="1701655456524" duration="693000" />
+      <workItem from="1701778939691" duration="1186000" />
+      <workItem from="1701780458118" duration="1242000" />
+      <workItem from="1701957056046" duration="1402000" />
+      <workItem from="1702431650061" duration="1574000" />
+      <workItem from="1703385868310" duration="3929000" />
+      <workItem from="1703555722069" duration="2324000" />
     </task>
     <servers />
   </component>
@@ -475,7 +607,25 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/itheima/dao/DormCleanDao.xml" />

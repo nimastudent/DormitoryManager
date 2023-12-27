@@ -14,7 +14,6 @@ import java.util.List;
  * @program: dormitorySystem
  * @description: 维修登记
  * @author: Joyrocky
- * @create: 2019-04-28 00:24
  **/
 @Service("dormRepairService")
 @Transactional

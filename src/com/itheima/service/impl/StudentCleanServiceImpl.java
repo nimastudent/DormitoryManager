@@ -14,7 +14,6 @@ import java.util.List;
  * @program: dormitorySystem
  * @description: 学生卫生接口实现
  * @author: Joyrocky
- * @create: 2019-04-25 12:16
  **/
 @Service("studentCleanService")
 @Transactional

@@ -9,7 +9,6 @@ import java.util.List;
  * @program: dormitorySystem
  * @description: 学生卫生
  * @author: Joyrocky
- * @create: 2019-04-25 12:14
  **/
 public interface StudentCleanDao {
     /**
